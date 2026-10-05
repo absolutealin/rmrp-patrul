@@ -4,8 +4,8 @@
     "notes": "Обновление ставится само: нажмите «Обновить» — программа скачает новую версию, установит её и откроется снова. Настройки теперь прокручиваются. Новый значок приложения."
   },
   "apk": {
-    "build": 27,
-    "url": "https://github.com/absolutealin/rmrp-patrul/releases/download/apk-27/RMRP_PATRUL.apk",
+    "build": 28,
+    "url": "https://github.com/absolutealin/rmrp-patrul/releases/download/apk-28/RMRP_PATRUL.apk",
     "notes": "Новый значок приложения. Если обновление не скачивается, можно пока продолжить работу."
   }
 }
