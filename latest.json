@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 18,
-    "notes": "Вернулись «Простыми словами» (зелёным) и исключения к статьям — в установленной версии их не было. Плюс исправлен запуск после обновления.",
-    "setup_version": 18,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v18/RMRP_PATRUL_Setup.exe"
+    "version": 19,
+    "notes": "У пунктов ПДД и других статей без названия теперь показывается их суть (начало текста) — в заголовке, в поиске и в списках. «Простыми словами» снова на месте.",
+    "setup_version": 19,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v19/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 36,
