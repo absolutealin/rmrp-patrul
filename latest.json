@@ -6,8 +6,8 @@
     "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v14/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
-    "build": 31,
-    "url": "https://github.com/absolutealin/rmrp-patrul/releases/download/apk-31/RMRP_PATRUL.apk",
+    "build": 32,
+    "url": "https://github.com/absolutealin/rmrp-patrul/releases/download/apk-32/RMRP_PATRUL.apk",
     "notes": "Новое: журнал смены, экзамен, карточки, «Мои ошибки» с тренировкой по теме, тема «Авто», компактные закреплённые."
   }
 }
