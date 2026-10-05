@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 17,
-    "notes": "Исправлено: после обновления программа могла не открыться («Failed to load Python DLL»). Журнал смены, экзамен, «Мои ошибки», режим «на посту», тема «Авто», компактные закреплённые, калькулятор штрафов.",
-    "setup_version": 17,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v17/RMRP_PATRUL_Setup.exe"
+    "version": 18,
+    "notes": "Вернулись «Простыми словами» (зелёным) и исключения к статьям — в установленной версии их не было. Плюс исправлен запуск после обновления.",
+    "setup_version": 18,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v18/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 35,
