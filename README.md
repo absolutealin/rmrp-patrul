@@ -4,8 +4,8 @@
 
 ## Скачать и установить
 
-- **Windows 10/11:** [скачать установщик](https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v13/RMRP_PATRUL_Setup.exe). Запустите файл и откройте приложение через значок на рабочем столе. Python не нужен.
-- **Android:** [скачать APK](https://github.com/absolutealin/rmrp-patrul/releases/download/apk-24/RMRP_PATRUL.apk). Откройте файл на телефоне и установите приложение.
+- **Windows 10/11:** [скачать установщик](https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v14/RMRP_PATRUL_Setup.exe). Запустите файл и откройте приложение через значок на рабочем столе. Python не нужен.
+- **Android:** [скачать APK](https://github.com/absolutealin/rmrp-patrul/releases/download/apk-29/RMRP_PATRUL.apk). Откройте файл на телефоне и установите приложение.
 - [Все версии приложения](https://github.com/absolutealin/rmrp-patrul/releases).
 
 Обновления устанавливаются поверх предыдущей версии. Настройки и сохранённые данные сохраняются.
