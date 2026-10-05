@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 19,
-    "notes": "У пунктов ПДД и других статей без названия теперь показывается их суть (начало текста) — в заголовке, в поиске и в списках. «Простыми словами» снова на месте.",
-    "setup_version": 19,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v19/RMRP_PATRUL_Setup.exe"
+    "version": 20,
+    "notes": "Режим «на посту» (Ctrl+J): окно больше не прыгает к краю экрана, а сжимается на месте; клики рядом с окном и сразу после переключения не попадают в игру.",
+    "setup_version": 20,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v20/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 36,
