@@ -6,8 +6,8 @@
     "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v14/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
-    "build": 29,
-    "url": "https://github.com/absolutealin/rmrp-patrul/releases/download/apk-29/RMRP_PATRUL.apk",
-    "notes": "Восстановлена загрузка и установка приложения из открытого репозитория. Новый значок с персонажами и достопримечательностями Москвы."
+    "build": 30,
+    "url": "https://github.com/absolutealin/rmrp-patrul/releases/download/apk-30/RMRP_PATRUL.apk",
+    "notes": "Калькулятор: «+» у наказания — итог внизу (госслужащий ×2). «Не путать с…» у похожих статей."
   }
 }
