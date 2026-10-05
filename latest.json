@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 20,
-    "notes": "Режим «на посту» (Ctrl+J): окно больше не прыгает к краю экрана, а сжимается на месте; клики рядом с окном и сразу после переключения не попадают в игру.",
-    "setup_version": 20,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v20/RMRP_PATRUL_Setup.exe"
+    "version": 21,
+    "notes": "Когда вы целитесь, стреляете или поворачиваете в игре, курсор больше не выскакивает на окно программы, а клики не отнимаются у игры. Окно снова реагирует на мышь, как только курсор виден или программа на переднем плане.",
+    "setup_version": 21,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v21/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 37,
