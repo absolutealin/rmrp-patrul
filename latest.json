@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 16,
-    "notes": "Обновление ставится само по кнопке «Обновить». Настройки прокручиваются. Новый значок.",
-    "setup_version": 16,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v16/RMRP_PATRUL_Setup.exe"
+    "version": 17,
+    "notes": "Исправлено: после обновления программа могла не открыться («Failed to load Python DLL»). Журнал смены, экзамен, «Мои ошибки», режим «на посту», тема «Авто», компактные закреплённые, калькулятор штрафов.",
+    "setup_version": 17,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v17/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 34,
