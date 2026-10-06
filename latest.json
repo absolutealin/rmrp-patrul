@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 24,
-    "notes": "Режим «на посту» (Ctrl+J): все закреплённые статьи видны сразу — с наказанием и «+» для расчёта.",
-    "setup_version": 24,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v24/RMRP_PATRUL_Setup.exe"
+    "version": 25,
+    "notes": "Обновления приходят быстрее: программа проверяет их каждые 5 минут, пока открыта, и показывает окно, только когда вы её открыли.",
+    "setup_version": 25,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v25/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 40,
