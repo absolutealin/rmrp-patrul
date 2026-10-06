@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 25,
-    "notes": "Обновления приходят быстрее: программа проверяет их каждые 5 минут, пока открыта, и показывает окно, только когда вы её открыли.",
-    "setup_version": 25,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v25/RMRP_PATRUL_Setup.exe"
+    "version": 26,
+    "notes": "Законы → «Все»: акты деревом — акт → глава → статья, раскрываются стрелкой ▸.",
+    "setup_version": 26,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v26/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 40,
