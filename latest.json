@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 21,
-    "notes": "Когда вы целитесь, стреляете или поворачиваете в игре, курсор больше не выскакивает на окно программы, а клики не отнимаются у игры. Окно снова реагирует на мышь, как только курсор виден или программа на переднем плане.",
-    "setup_version": 21,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v21/RMRP_PATRUL_Setup.exe"
+    "version": 22,
+    "notes": "«Что нового» теперь показывает только изменения последней версии.",
+    "setup_version": 22,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v22/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 39,
