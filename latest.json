@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 29,
-    "notes": "Убран «Журнал смены» из раздела ГИБДД и из плиток на главной.",
-    "setup_version": 29,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v29/RMRP_PATRUL_Setup.exe"
+    "version": 30,
+    "notes": "Задержание → Права задержанного: текст, который зачитываете, теперь сразу наверху — без прокрутки.",
+    "setup_version": 30,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v30/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 42,
