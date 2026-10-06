@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 28,
-    "notes": "Окно «на посту» (Ctrl+J) теперь появляется там, где вы его оставили, а не посреди экрана.",
-    "setup_version": 28,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v28/RMRP_PATRUL_Setup.exe"
+    "version": 29,
+    "notes": "Убран «Журнал смены» из раздела ГИБДД и из плиток на главной.",
+    "setup_version": 29,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v29/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 41,
