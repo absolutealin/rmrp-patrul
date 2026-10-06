@@ -6,8 +6,8 @@
     "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v29/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
-    "build": 41,
-    "url": "https://github.com/absolutealin/rmrp-patrul/releases/download/apk-41/RMRP_PATRUL.apk",
-    "notes": "Убран «Журнал смены» из раздела ГИБДД и из плиток на главной."
+    "build": 42,
+    "url": "https://github.com/absolutealin/rmrp-patrul/releases/download/apk-42/RMRP_PATRUL.apk",
+    "notes": "Права задержанного: текст для зачитывания сразу наверху, без прокрутки."
   }
 }
