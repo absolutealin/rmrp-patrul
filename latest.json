@@ -6,8 +6,8 @@
     "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v24/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
-    "build": 39,
-    "url": "https://github.com/absolutealin/rmrp-patrul/releases/download/apk-39/RMRP_PATRUL.apk",
+    "build": 40,
+    "url": "https://github.com/absolutealin/rmrp-patrul/releases/download/apk-40/RMRP_PATRUL.apk",
     "notes": "«Что нового» теперь показывает только последнюю версию."
   }
 }
