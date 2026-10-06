@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 27,
-    "notes": "Дерево (акт → глава → статья) теперь во всех разделах законов: КоАП, УК, ПДД, ГИБДД и остальных.",
-    "setup_version": 27,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v27/RMRP_PATRUL_Setup.exe"
+    "version": 28,
+    "notes": "Окно «на посту» (Ctrl+J) теперь появляется там, где вы его оставили, а не посреди экрана.",
+    "setup_version": 28,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v28/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 40,
