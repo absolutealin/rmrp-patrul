@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 22,
-    "notes": "«Что нового» теперь показывает только изменения последней версии.",
-    "setup_version": 22,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v22/RMRP_PATRUL_Setup.exe"
+    "version": 24,
+    "notes": "Режим «на посту» (Ctrl+J): все закреплённые статьи видны сразу — с наказанием и «+» для расчёта.",
+    "setup_version": 24,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v24/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 39,
