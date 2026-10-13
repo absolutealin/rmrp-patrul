@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 31,
-    "notes": "ПДД 2.7: КоАП 9.7 — только за посадку/высадку; за пассажира без ремня или мотошлема отдельного штрафа нет. Поиск понимает «шлем» и «ремень».",
-    "setup_version": 31,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v31/RMRP_PATRUL_Setup.exe"
+    "version": 32,
+    "notes": "Изменённые законы: в статье видно, что именно поменялось — было (красным) и стало (зелёным).",
+    "setup_version": 32,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v32/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 43,
