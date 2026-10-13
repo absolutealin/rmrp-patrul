@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 33,
-    "notes": "ГИБДД → Знаки: все дорожные знаки и разметка картинками, с поиском и штрафом КоАП за нарушение.",
-    "setup_version": 33,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v33/RMRP_PATRUL_Setup.exe"
+    "version": 34,
+    "notes": "Знаки: при прокрутке поиск сворачивается в одну строку — знакам больше места.",
+    "setup_version": 34,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v34/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 43,
