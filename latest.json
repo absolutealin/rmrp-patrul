@@ -6,8 +6,8 @@
     "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v30/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
-    "build": 42,
-    "url": "https://github.com/absolutealin/rmrp-patrul/releases/download/apk-42/RMRP_PATRUL.apk",
-    "notes": "Права задержанного: текст для зачитывания сразу наверху, без прокрутки."
+    "build": 43,
+    "url": "https://github.com/absolutealin/rmrp-patrul/releases/download/apk-43/RMRP_PATRUL.apk",
+    "notes": "ПДД 2.7: пометка про шлем и ремень; поиск понимает «шлем» и «ремень»."
   }
 }
