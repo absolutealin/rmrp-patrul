@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 32,
-    "notes": "Изменённые законы: в статье видно, что именно поменялось — было (красным) и стало (зелёным).",
-    "setup_version": 32,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v32/RMRP_PATRUL_Setup.exe"
+    "version": 33,
+    "notes": "ГИБДД → Знаки: все дорожные знаки и разметка картинками, с поиском и штрафом КоАП за нарушение.",
+    "setup_version": 33,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v33/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 43,
