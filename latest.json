@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 30,
-    "notes": "Задержание → Права задержанного: текст, который зачитываете, теперь сразу наверху — без прокрутки.",
-    "setup_version": 30,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v30/RMRP_PATRUL_Setup.exe"
+    "version": 31,
+    "notes": "ПДД 2.7: КоАП 9.7 — только за посадку/высадку; за пассажира без ремня или мотошлема отдельного штрафа нет. Поиск понимает «шлем» и «ремень».",
+    "setup_version": 31,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v31/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 43,
