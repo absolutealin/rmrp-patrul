@@ -6,8 +6,8 @@
     "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v35/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
-    "build": 43,
-    "url": "https://github.com/absolutealin/rmrp-patrul/releases/download/apk-43/RMRP_PATRUL.apk",
-    "notes": "ПДД 2.7: пометка про шлем и ремень; поиск понимает «шлем» и «ремень»."
+    "build": 44,
+    "url": "https://github.com/absolutealin/rmrp-patrul/releases/download/apk-44/RMRP_PATRUL.apk",
+    "notes": "База законов обновлена на 09.11: новые и изменённые статьи КоАП, ПК, УПК, Конституции, ФЗ и правил госорганизаций."
   }
 }
