@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 34,
-    "notes": "Знаки: при прокрутке поиск сворачивается в одну строку — знакам больше места.",
-    "setup_version": 34,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v34/RMRP_PATRUL_Setup.exe"
+    "version": 35,
+    "notes": "Устав ГИБДД больше не пропадает, если тема на форуме не открылась: остаётся последняя сохранённая копия.",
+    "setup_version": 35,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v35/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 43,
