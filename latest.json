@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 35,
-    "notes": "Устав ГИБДД больше не пропадает, если тема на форуме не открылась: остаётся последняя сохранённая копия.",
-    "setup_version": 35,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v35/RMRP_PATRUL_Setup.exe"
+    "version": 36,
+    "notes": "Законы → «Фракции»: правила госорганизаций и криминальных фракций — что можно и что нельзя.",
+    "setup_version": 36,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v36/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 44,
