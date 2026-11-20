@@ -6,8 +6,8 @@
     "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v37/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
-    "build": 44,
-    "url": "https://github.com/absolutealin/rmrp-patrul/releases/download/apk-44/RMRP_PATRUL.apk",
-    "notes": "База законов обновлена на 09.11: новые и изменённые статьи КоАП, ПК, УПК, Конституции, ФЗ и правил госорганизаций."
+    "build": 45,
+    "url": "https://github.com/absolutealin/rmrp-patrul/releases/download/apk-45/RMRP_PATRUL.apk",
+    "notes": "Главы теперь с обычными цифрами (Глава 9 вместо Глава IX); база законов на 19.11."
   }
 }
