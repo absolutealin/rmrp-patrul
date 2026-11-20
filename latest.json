@@ -1,9 +1,9 @@
 {
   "pc": {
-    "version": 36,
-    "notes": "Законы → «Фракции»: правила госорганизаций и криминальных фракций — что можно и что нельзя.",
-    "setup_version": 36,
-    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v36/RMRP_PATRUL_Setup.exe"
+    "version": 37,
+    "notes": "Главы теперь с обычными цифрами: «Глава 9» вместо «Глава IX».",
+    "setup_version": 37,
+    "setup": "https://github.com/absolutealin/rmrp-patrul/releases/download/pc-v37/RMRP_PATRUL_Setup.exe"
   },
   "apk": {
     "build": 44,
